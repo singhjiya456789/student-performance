@@ -2,18 +2,26 @@
 
 ## 📌 Overview
 
-This project is a simple Exploratory Data Analysis (EDA) on a student performance dataset. I explored how different factors like study hours, attendance, stress level, internet access, and online courses affect students’ exam scores and final grades.
+This project is a simple **Exploratory Data Analysis (EDA)** on a student performance dataset. I explored how different factors like study hours, attendance, stress level, internet access, and online courses affect students’ exam scores and final grades.
 The main goal was to understand the data better and find patterns using visualizations.
 
 I also genuinely enjoyed working with Seaborn in this project — it made exploring relationships between variables really easy and fun.
+
+---
 
 ## 📂 Dataset
 
 The dataset (`student_performance.csv`) includes Study Hours, Attendance, Exam Score, Final Grade, Gender, Stress Level, Internet Access, Online Courses, and Assignment Completion.
 
+---
+
 ## 🛠️ Tools used
 
-Python 🐍, Pandas, NumPy, Matplotlib, Seaborn 🌊
+- Python 🐍
+- Pandas 📊
+- NumPy 🔢
+- Matplotlib 📈
+- Seaborn 🌊
 
 ## 📊 Visualizations
 
@@ -45,7 +53,19 @@ python main.py
 -Apply machine learning to predict exam scores,
 -Make visualizations interactive.
 
-## 👤 Author
+---
 
-Jiya Singh
-Data Science learner | Python | ML
+## 👨‍💻 Author
+
+**Jiya Singh**
+Computer Engineering Student
+Interested in:
+
+- Data Science
+- Data Analytics
+- Python
+- ML
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
