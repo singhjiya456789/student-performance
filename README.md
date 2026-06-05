@@ -34,18 +34,18 @@ python main.py
 
 ## 🎯 What I learned
 
-Data cleaning,
-Exploratory data analysis
-Data visualization using Seaborn and Matplotlib
-finding patterns in real-world datasets.
+-Data cleaning,
+-Exploratory data analysis
+-Data visualization using Seaborn and Matplotlib
+-finding patterns in real-world datasets.
 
 ## 📌 Next steps
 
-Build a Streamlit dashboard,
-Apply machine learning to predict exam scores,
-Make visualizations interactive.
+-Build a Streamlit dashboard,
+-Apply machine learning to predict exam scores,
+-Make visualizations interactive.
 
 ## 👤 Author
 
 Jiya Singh
-— Data Science learner | Python | ML
+Data Science learner | Python | ML
