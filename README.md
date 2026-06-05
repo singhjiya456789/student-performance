@@ -57,16 +57,18 @@ python main.py
 
 ## 📌 Next steps
 
--Build a Streamlit dashboard,
--Apply machine learning to predict exam scores,
--Make visualizations interactive.
+- Build a Streamlit dashboard
+- Apply machine learning to predict exam scores
+- Make visualizations interactive.
 
 ---
 
 ## 👨‍💻 Author
 
 **Jiya Singh**
+
 Computer Engineering Student
+
 Interested in:
 
 - Data Science
