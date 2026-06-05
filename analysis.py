@@ -73,7 +73,12 @@ plt.title(" Counting Of Final grade")
 plt.savefig("images/finalgrade_countplt.png")
 plt.show()
 
-sns.heatmap(df.corr(numeric_only=True), annot=True)
+sns.heatmap(df.corr(numeric_only=True),
+             annot=True,
+             fmt=".2f", 
+             cmap="rocket", 
+             linewidths=0.5,     
+             annot_kws={"size": 9})
 plt.title(" Correlation  between the numeric values")
 plt.savefig("images/correlation_hist.png")
 plt.show()
