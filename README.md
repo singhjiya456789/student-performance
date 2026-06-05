@@ -27,7 +27,7 @@ Study Hours vs Exam Score (Hexbin plot), Attendance vs Exam Score, Online Course
 
 ## 🚀 How to run
 
-git clone
+git clone https://github.com/singhjiya456789/student-performance
 
 pip install pandas numpy matplotlib seaborn  
 python main.py
